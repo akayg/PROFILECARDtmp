@@ -487,9 +487,9 @@ const Contact = props => {
     React.createElement("p", { className: "separator" }), /*#__PURE__*/
     React.createElement("p", { className: "subtitle" }, "Please, use the form below or send an email to ",
     '', /*#__PURE__*/
-    React.createElement("span", { className: "mail" }, "web", /*#__PURE__*/
+    React.createElement("span", { className: "mail" }, "abhishek22g3170", /*#__PURE__*/
 
-    React.createElement("i", { className: "fas fa-at at" }), "yagoestevez", /*#__PURE__*/
+    React.createElement("i", { className: "fas fa-at at" }), "gmail", /*#__PURE__*/
 
     React.createElement("i", { className: "fas fa-circle dot" }), "com"), ":")), /*#__PURE__*/
 
@@ -521,7 +521,7 @@ const Footer = props => {
     React.createElement("footer", null, /*#__PURE__*/
     React.createElement("div", { className: "wrapper" }, /*#__PURE__*/
     React.createElement("h3", null, "THANKS FOR VISITING"), /*#__PURE__*/
-    React.createElement("p", null, "\xA9 ", new Date().getFullYear(), " Yago Est\xE9vez."), /*#__PURE__*/
+    React.createElement("p", null, "", new Date().getFullYear(), " Abhishek"), /*#__PURE__*/
     React.createElement(SocialLinks, null))));
 
 
