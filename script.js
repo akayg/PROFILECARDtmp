@@ -50,7 +50,7 @@ const Nav = props => {
     React.createElement("div", { className: "nav-wrapper" }, /*#__PURE__*/
     React.createElement("p", { className: "brand" }, "Abhishek", /*#__PURE__*/
 
-    React.createElement("strong", null, "est\xE9vez")), /*#__PURE__*/
+    React.createElement("strong", null, "Gore")), /*#__PURE__*/
 
     React.createElement("a", {
       onClick: props.toggleMenu,
