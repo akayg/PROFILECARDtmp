@@ -111,7 +111,7 @@ const About = props => {
 
     React.createElement("div", { className: "desc full" }, /*#__PURE__*/
     React.createElement("h4", { className: "subtitle" }, "My name is Abhishek."), /*#__PURE__*/
-    React.createElement("p", null, "I am a web developer and S.E.O expert based in the beautiful city Chandiagrh "), /*#__PURE__*/
+    React.createElement("p", null, "I am a web developer and ui/ux designer based in the beautiful city Chandiagrh "), /*#__PURE__*/
 
 
 
