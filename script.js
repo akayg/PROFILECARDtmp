@@ -79,9 +79,9 @@ const Header = props => {
     React.createElement("div", { className: "container" }, /*#__PURE__*/
     React.createElement("h1", null, /*#__PURE__*/
     React.createElement("span", { className: "line" }, "I do"), /*#__PURE__*/
-    React.createElement("span", { className: "line" }, "digital marketing"), /*#__PURE__*/
+    React.createElement("span", { className: "line" }, "Developmen"), /*#__PURE__*/
     React.createElement("span", { className: "line" }, /*#__PURE__*/
-    React.createElement("span", { className: "color" }, "&"), "Seo")), /*#__PURE__*/
+    React.createElement("span", { className: "color" }, "&"), "Design")), /*#__PURE__*/
 
 
     React.createElement("div", { className: "buttons" }, /*#__PURE__*/
